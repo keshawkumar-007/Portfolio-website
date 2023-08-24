@@ -1,0 +1,48 @@
+/* Reset some default styling */
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Basic styling for the header */
+header {
+    text-align: center;
+    padding: 50px 0;
+    background-color: #f2f2f2;
+}
+
+/* Styling for the navigation menu */
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    background-color: #333;
+    padding: 10px 0;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+/* Styling for the sections */
+section {
+    padding: 50px;
+}
+
+/* Styling for the footer */
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #f2f2f2;
+}
+
+/* Styling for individual projects */
+.project {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+/* Add more styles as needed */
